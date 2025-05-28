@@ -1,5 +1,7 @@
 # 📊 Craster Sales Insights Dashboard
 
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
+
 This project is a Power BI dashboard designed to analyze and visualize Craster's sales performance using multiple datasets. The dashboard provides actionable insights into revenue trends, product performance, and market dynamics to support strategic business decisions.
 
 ## 🧾 Key Features
